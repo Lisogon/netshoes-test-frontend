@@ -1,3 +1,7 @@
+// Nao alterar a assinatura desse metodo!
+const compareVersion = (version1, version2) => {
+  // TODO sua implementacao! Fique a vontade para alterar abaixo e passar nos testes
+
 /* eslint-disable no-undef */
 const question2 = require('../../app/question2');
 const { assert } = require('chai');
@@ -91,3 +95,11 @@ describe('version 2 unit tests', () => {
   });
 });
 
+  console.log(version1, version2);
+  return 2;
+};
+
+ (version1 > version2 return 1)
+module.exports = {
+  compareVersion,
+};
